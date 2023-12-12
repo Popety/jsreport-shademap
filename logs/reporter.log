@@ -63,3 +63,65 @@
 2023-12-12T13:16:25.043Z - warn: Page request failed: GET (script) 302 https://unpkg.com/leaflet-shadow-simulator/dist/leaflet-shadow-simulator.umd.min.js (redirect to: /leaflet-shadow-simulator@0.38.0/dist/leaflet-shadow-simulator.umd.min.js) rootId=k5hvfnhxumk5hgq, id=k5hvfnhxumk5hgq
 2023-12-12T13:16:25.144Z - warn: Page request failed: GET (script) 302 https://unpkg.com/@jsreport/browser-client/dist/jsreport.umd.js (redirect to: /@jsreport/browser-client@3.1.1/dist/jsreport.umd.js) rootId=k5hvfnhxumk5hgq, id=k5hvfnhxumk5hgq
 2023-12-12T13:16:25.314Z - info: Rendering request 1 finished in 1156 ms rootId=k5hvfnhxumk5hgq, id=k5hvfnhxumk5hgq
+2023-12-12T13:22:23.319Z - info: Initializing jsreport (version: 4.2.0, configuration file: jsreport.config.json, nodejs: 18.15.0)
+2023-12-12T13:22:23.320Z - info: Searching for available extensions in /Users/ishak/Documents/popety/jsreportTest/jsreportapp/
+2023-12-12T13:22:23.324Z - info: Extensions location cache /var/folders/z4/rhwg_hrx0cxb95ql1dty6fm40000gn/T/jsreport/core/locations.json contains older information, crawling
+2023-12-12T13:22:23.493Z - info: Found 35 extension(s)
+2023-12-12T13:22:23.525Z - info: Using extension authentication@4.0.1
+2023-12-12T13:22:23.588Z - info: Using extension base@4.0.0
+2023-12-12T13:22:23.591Z - info: Using extension child-templates@4.0.0
+2023-12-12T13:22:23.591Z - info: Using extension cli@4.0.2
+2023-12-12T13:22:23.593Z - info: Using extension components@4.0.0
+2023-12-12T13:22:23.593Z - info: Using extension data@4.0.0
+2023-12-12T13:22:23.594Z - info: Using extension express@4.0.1
+2023-12-12T13:22:23.693Z - info: Using extension freeze@4.0.0
+2023-12-12T13:22:23.694Z - info: Using extension fs-store@4.0.1
+2023-12-12T13:22:23.946Z - info: Using extension handlebars@4.0.1
+2023-12-12T13:22:23.948Z - info: Using extension import-export@4.0.2
+2023-12-12T13:22:23.957Z - info: Using extension jsrender@4.0.0
+2023-12-12T13:22:23.958Z - info: Using extension licensing@4.0.1
+2023-12-12T13:22:23.972Z - info: Using extension localization@4.0.1
+2023-12-12T13:22:23.973Z - info: Using extension npm@4.0.0
+2023-12-12T13:22:23.976Z - info: Using extension pdf-utils@4.0.2
+2023-12-12T13:22:23.978Z - info: Using extension reports@4.0.0
+2023-12-12T13:22:23.979Z - info: Using extension tags@4.0.1
+2023-12-12T13:22:23.980Z - info: Using extension text@4.0.0
+2023-12-12T13:22:23.980Z - info: Using extension version-control@4.0.0
+2023-12-12T13:22:23.986Z - info: Using extension assets@4.0.2
+2023-12-12T13:22:23.993Z - info: Using extension authorization@4.0.0
+2023-12-12T13:22:23.995Z - info: Using extension browser-client@4.0.0
+2023-12-12T13:22:23.996Z - info: Using extension chrome-pdf@4.0.0
+2023-12-12T13:22:23.997Z - info: Using extension docx@4.1.1
+2023-12-12T13:22:23.998Z - info: Using extension html-to-xlsx@4.0.1
+2023-12-12T13:22:24.118Z - info: html-to-xlsx detected chrome as available html engine
+2023-12-12T13:22:24.118Z - info: Using extension pptx@4.1.0
+2023-12-12T13:22:24.119Z - info: Using extension scheduling@4.0.0
+2023-12-12T13:22:24.132Z - info: Using extension scripts@4.0.0
+2023-12-12T13:22:24.133Z - info: Using extension static-pdf@4.0.0
+2023-12-12T13:22:24.133Z - info: Using extension studio@4.0.2
+2023-12-12T13:22:24.170Z - info: Using extension xlsx@4.0.2
+2023-12-12T13:22:24.171Z - info: Using extension public-templates@4.0.0
+2023-12-12T13:22:24.171Z - info: Using extension sample-template@4.0.0
+2023-12-12T13:22:24.172Z - info: Using extension studio-theme-dark@4.0.0
+2023-12-12T13:22:24.173Z - info: Code sandboxing is disabled, users can potentially penetrate the local system if you allow code from external users to be part of your reports
+2023-12-12T13:22:24.173Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2023-12-12T13:22:24.173Z - info: Using fs provider for template store.
+2023-12-12T13:22:24.175Z - info: fs store is persisting using fs for /Users/ishak/Documents/popety/jsreportTest/jsreportapp/data
+2023-12-12T13:22:24.178Z - info: fs store is loading data
+2023-12-12T13:22:24.182Z - info: fs store is initialized successfully
+2023-12-12T13:22:24.187Z - info: Creating default express app.
+2023-12-12T13:22:24.199Z - info: jsreport server successfully started on http port: 5488
+2023-12-12T13:22:24.200Z - info: Verifying license key free
+2023-12-12T13:22:24.200Z - info: Using free license
+2023-12-12T13:22:24.202Z - info: Initializing worker threads
+2023-12-12T13:22:24.293Z - info: 2 worker threads initialized in 91ms
+2023-12-12T13:22:24.293Z - info: Starting temp files cleanup with 180000ms threshold
+2023-12-12T13:22:24.294Z - info: reporter initialized
+2023-12-12T13:23:20.362Z - info: Render request 1 queued for execution and waiting for available worker rootId=xjgv6kd4te5sh0t, id=xjgv6kd4te5sh0t
+2023-12-12T13:23:20.398Z - info: Starting rendering request 1 (user: admin) rootId=xjgv6kd4te5sh0t, id=xjgv6kd4te5sh0t
+2023-12-12T13:23:20.398Z - info: Rendering template { name: test, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=xjgv6kd4te5sh0t, id=xjgv6kd4te5sh0t
+2023-12-12T13:23:21.177Z - warn: Page request failed: GET (stylesheet) file:///var/folders/z4/rhwg_hrx0cxb95ql1dty6fm40000gn/T/jsreport/autocleanup/styles.css, failure: net::ERR_FILE_NOT_FOUND rootId=xjgv6kd4te5sh0t, id=xjgv6kd4te5sh0t
+2023-12-12T13:23:21.276Z - warn: Page request failed: GET (script) 302 https://unpkg.com/@jsreport/browser-client/dist/jsreport.umd.js (redirect to: /@jsreport/browser-client@3.1.1/dist/jsreport.umd.js) rootId=xjgv6kd4te5sh0t, id=xjgv6kd4te5sh0t
+2023-12-12T13:23:21.580Z - warn: Page request failed: GET (script) 302 https://unpkg.com/osmtogeojson/osmtogeojson.js (redirect to: /osmtogeojson@3.0.0-beta.5/osmtogeojson.js) rootId=xjgv6kd4te5sh0t, id=xjgv6kd4te5sh0t
+2023-12-12T13:23:21.680Z - warn: Page request failed: GET (script) 302 https://unpkg.com/leaflet-shadow-simulator/dist/leaflet-shadow-simulator.umd.min.js (redirect to: /leaflet-shadow-simulator@0.38.0/dist/leaflet-shadow-simulator.umd.min.js) rootId=xjgv6kd4te5sh0t, id=xjgv6kd4te5sh0t
+2023-12-12T13:23:21.870Z - info: Rendering request 1 finished in 1511 ms rootId=xjgv6kd4te5sh0t, id=xjgv6kd4te5sh0t

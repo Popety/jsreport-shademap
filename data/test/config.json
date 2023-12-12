@@ -1,0 +1,19 @@
+{
+    "name": "test",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "shortid": "KCMFAw7Of",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1702387393199
+    },
+    "modificationDate": {
+        "$$date": 1702387393199
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "r73drw4GhispHAV2",
+    "$entitySet": "templates"
+}
