@@ -1,0 +1,65 @@
+2023-12-12T13:15:22.018Z - info: Initializing jsreport (version: 4.2.0, configuration file: jsreport.config.json, nodejs: 18.15.0)
+2023-12-12T13:15:22.019Z - info: Searching for available extensions in /Users/ishak/Documents/popety/jsreportTest/jsreportapp/
+2023-12-12T13:15:22.022Z - info: Extensions location cache doesn't contain entry yet, crawling
+2023-12-12T13:15:22.155Z - info: Found 35 extension(s)
+2023-12-12T13:15:22.182Z - info: Using extension authentication@4.0.1
+2023-12-12T13:15:22.239Z - info: Using extension base@4.0.0
+2023-12-12T13:15:22.241Z - info: Using extension child-templates@4.0.0
+2023-12-12T13:15:22.242Z - info: Using extension cli@4.0.2
+2023-12-12T13:15:22.242Z - info: Using extension components@4.0.0
+2023-12-12T13:15:22.243Z - info: Using extension data@4.0.0
+2023-12-12T13:15:22.243Z - info: Using extension express@4.0.1
+2023-12-12T13:15:22.324Z - info: Using extension freeze@4.0.0
+2023-12-12T13:15:22.325Z - info: Using extension fs-store@4.0.1
+2023-12-12T13:15:22.804Z - info: Using extension handlebars@4.0.1
+2023-12-12T13:15:22.806Z - info: Using extension import-export@4.0.2
+2023-12-12T13:15:22.818Z - info: Using extension jsrender@4.0.0
+2023-12-12T13:15:22.818Z - info: Using extension licensing@4.0.1
+2023-12-12T13:15:22.820Z - info: Using extension localization@4.0.1
+2023-12-12T13:15:22.820Z - info: Using extension npm@4.0.0
+2023-12-12T13:15:22.822Z - info: Using extension pdf-utils@4.0.2
+2023-12-12T13:15:22.823Z - info: Using extension reports@4.0.0
+2023-12-12T13:15:22.825Z - info: Using extension tags@4.0.1
+2023-12-12T13:15:22.825Z - info: Using extension text@4.0.0
+2023-12-12T13:15:22.826Z - info: Using extension version-control@4.0.0
+2023-12-12T13:15:22.832Z - info: Using extension assets@4.0.2
+2023-12-12T13:15:22.838Z - info: Using extension authorization@4.0.0
+2023-12-12T13:15:22.839Z - info: Using extension browser-client@4.0.0
+2023-12-12T13:15:22.840Z - info: Using extension chrome-pdf@4.0.0
+2023-12-12T13:15:22.842Z - info: Using extension docx@4.1.1
+2023-12-12T13:15:22.843Z - info: Using extension html-to-xlsx@4.0.1
+2023-12-12T13:15:22.940Z - info: html-to-xlsx detected chrome as available html engine
+2023-12-12T13:15:22.940Z - info: Using extension pptx@4.1.0
+2023-12-12T13:15:22.941Z - info: Using extension scheduling@4.0.0
+2023-12-12T13:15:22.954Z - info: Using extension scripts@4.0.0
+2023-12-12T13:15:22.954Z - info: Using extension static-pdf@4.0.0
+2023-12-12T13:15:22.954Z - info: Using extension studio@4.0.2
+2023-12-12T13:15:22.980Z - info: Using extension xlsx@4.0.2
+2023-12-12T13:15:22.981Z - info: Using extension public-templates@4.0.0
+2023-12-12T13:15:22.981Z - info: Using extension sample-template@4.0.0
+2023-12-12T13:15:22.982Z - info: Using extension studio-theme-dark@4.0.0
+2023-12-12T13:15:22.982Z - info: Code sandboxing is disabled, users can potentially penetrate the local system if you allow code from external users to be part of your reports
+2023-12-12T13:15:22.982Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2023-12-12T13:15:22.982Z - info: Using fs provider for template store.
+2023-12-12T13:15:22.984Z - info: fs store is persisting using fs for /Users/ishak/Documents/popety/jsreportTest/jsreportapp/data
+2023-12-12T13:15:22.987Z - info: fs store is loading data
+2023-12-12T13:15:22.990Z - info: fs store is initialized successfully
+2023-12-12T13:15:22.999Z - info: Creating default express app.
+2023-12-12T13:15:23.008Z - info: jsreport server successfully started on http port: 5488
+2023-12-12T13:15:23.013Z - info: Verifying license key free
+2023-12-12T13:15:23.013Z - info: Using free license
+2023-12-12T13:15:23.022Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2023-12-12T13:15:23.023Z - info: Migration successful
+2023-12-12T13:15:23.023Z - info: Initializing worker threads
+2023-12-12T13:15:23.125Z - info: 2 worker threads initialized in 102ms
+2023-12-12T13:15:23.125Z - info: Starting temp files cleanup with 180000ms threshold
+2023-12-12T13:15:23.125Z - info: reporter initialized
+2023-12-12T13:16:11.656Z - info: Logging in user admin
+2023-12-12T13:16:24.160Z - info: Render request 1 queued for execution and waiting for available worker rootId=k5hvfnhxumk5hgq, id=k5hvfnhxumk5hgq
+2023-12-12T13:16:24.209Z - info: Starting rendering request 1 (user: admin) rootId=k5hvfnhxumk5hgq, id=k5hvfnhxumk5hgq
+2023-12-12T13:16:24.209Z - info: Rendering template { name: test, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=k5hvfnhxumk5hgq, id=k5hvfnhxumk5hgq
+2023-12-12T13:16:24.943Z - warn: Page request failed: GET (stylesheet) file:///var/folders/z4/rhwg_hrx0cxb95ql1dty6fm40000gn/T/jsreport/autocleanup/styles.css, failure: net::ERR_FILE_NOT_FOUND rootId=k5hvfnhxumk5hgq, id=k5hvfnhxumk5hgq
+2023-12-12T13:16:25.043Z - warn: Page request failed: GET (script) 302 https://unpkg.com/osmtogeojson/osmtogeojson.js (redirect to: /osmtogeojson@3.0.0-beta.5/osmtogeojson.js) rootId=k5hvfnhxumk5hgq, id=k5hvfnhxumk5hgq
+2023-12-12T13:16:25.043Z - warn: Page request failed: GET (script) 302 https://unpkg.com/leaflet-shadow-simulator/dist/leaflet-shadow-simulator.umd.min.js (redirect to: /leaflet-shadow-simulator@0.38.0/dist/leaflet-shadow-simulator.umd.min.js) rootId=k5hvfnhxumk5hgq, id=k5hvfnhxumk5hgq
+2023-12-12T13:16:25.144Z - warn: Page request failed: GET (script) 302 https://unpkg.com/@jsreport/browser-client/dist/jsreport.umd.js (redirect to: /@jsreport/browser-client@3.1.1/dist/jsreport.umd.js) rootId=k5hvfnhxumk5hgq, id=k5hvfnhxumk5hgq
+2023-12-12T13:16:25.314Z - info: Rendering request 1 finished in 1156 ms rootId=k5hvfnhxumk5hgq, id=k5hvfnhxumk5hgq
